@@ -1,0 +1,42 @@
+.btn-blue {
+	background-color: #FC440F ;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 30px;
+	transition: 0.6s ease;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.btn-blue:hover{
+	border: 4px;
+	border-color: #FC440F;
+	border-radius: 4px;
+	font-size: 40px;
+	background-color: white;
+	color: #FC440F;
+	transition: 0.6s ease;
+}
+
+.btn-blue-center {
+	background-color: #FC440F ;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 30px;
+	transition: 0.6s ease;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Poppins', sans-serif;
+	}
+
+.btn-blue-center:hover {
+	border: 4px;
+	border-color: #FC440F;
+	border-radius: 4px;
+	font-size: 40px;
+	background-color: white;
+	color: #FC440F;
+	transition: 0.6s ease;
+
+}
